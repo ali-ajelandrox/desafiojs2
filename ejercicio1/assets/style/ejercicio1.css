@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+
+.logo{
+    margin-left: 30%;
+    margin-top: 15%;
+    width: 550px;
+    border: 5px red  solid;
+}
+
+
+.noborder{
+    border: none;
+}
