@@ -1,0 +1,25 @@
+
+
+
+.select-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 25%;
+    flex-direction: row; 
+}
+
+
+button{
+   display: flex;
+
+   margin-top: 50px;
+margin-left: 45%;
+}
+
+p{
+    display: flex;
+
+    margin-top: 50px;
+ margin-left: 45%;
+}
